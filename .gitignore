@@ -1,0 +1,7 @@
+main
+*.o
+a.out
+*.dSYM/
+core
+.vscode/
+*.swp
